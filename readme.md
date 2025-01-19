@@ -1,0 +1,1 @@
+Você conseguirá assistir as videos aulas desse projeto através [Desse Link](https://cursos.alura.com.br/course/javascript-manipulando-objetos)
